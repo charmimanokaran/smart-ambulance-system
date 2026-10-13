@@ -1,1 +1,0 @@
-# smart-ambulance-system
